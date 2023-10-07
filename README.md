@@ -1,4 +1,5 @@
-| Plugin | README |
+![image](https://github.com/BOBUS2317/knsl/assets/145115035/8d3aa971-6cd2-4ade-a147-87d86ad7a7ec)
+| Номер | Тип |
 | ------ | ------ |
 | №1 |  |
 | №2 |  |

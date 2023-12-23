@@ -8,3 +8,16 @@ def f16():
     print(i1/i2)
 
 f16()
+
+from math import factorial
+import sys 
+sys.setrecursionlimit(2500)
+def f1(n):
+    if n>2024: return n
+    if n<=2024: return n*f1(n+1)
+print(f1(2022)/f1(2024))
+
+def f2(n):
+    if n==1: return 1
+    return n*f2(n-1)
+print(f2(10))

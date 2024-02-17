@@ -28,7 +28,7 @@
 | 24 | c |
 | 25 | e/c |
 | 26 | c |
-| 27 |  |
+| 27 | p |
 https://www.youtube.com/@plugar_inf
 
 
